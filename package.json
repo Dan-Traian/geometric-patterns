@@ -1,0 +1,22 @@
+{
+  "name": "patterns",
+  "version": "1.0.0",
+  "description": "A package to generate geometric patterns inside a give container",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dan-Traian/patterns.git"
+  },
+  "keywords": [
+    "pattern"
+  ],
+  "author": "Dan-Traian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dan-Traian/patterns/issues"
+  },
+  "homepage": "https://github.com/Dan-Traian/patterns#readme"
+}
